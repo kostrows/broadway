@@ -9,6 +9,16 @@ h1 {
   color: white;
 }
 
+h2 {
+  font-size: 32px;
+  font-weight: bold;
+}
+
+h3 {
+  font-size: 23px;
+  font-weight: bold;
+}
+
 p {
   font-size: 14px;
 }
@@ -32,4 +42,8 @@ p {
 
 .footer li {
     display: inline;
+}
+
+.white {
+  color: white;
 }
